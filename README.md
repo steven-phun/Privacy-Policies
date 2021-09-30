@@ -1,2 +1,1 @@
-# Privacy-Policy
-A collection of my Privacy Policy
+# Ultimate Tic Tac Toe II Privacy Policy
