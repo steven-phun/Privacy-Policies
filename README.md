@@ -1,2 +1,2 @@
-# Privacy-Policies
-A collection of my Privacy Policies
+# Privacy-Policy
+A collection of my Privacy Policy
